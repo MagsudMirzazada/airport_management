@@ -7,7 +7,7 @@ Before everything, you need to have python3 installed on your workspace in order
 
 Run the following command to install this app:
 ```bash
-    git clone https://github.com/MagsudMirzazada/Network_Programming/tree/master/airport_management.git
+    git clone https://github.com/MagsudMirzazada/airport_management.git
 ```
 Next, install requirements to make sure all is ready for starting app:
 ```bash
