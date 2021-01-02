@@ -4,7 +4,7 @@ from termcolor import colored
 BASE = 'http://127.0.0.1:5000/'
 
 token_ = None
-#s
+
 class User:
     def __init__(self):
         # self.token = None
